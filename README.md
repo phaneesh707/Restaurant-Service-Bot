@@ -1,7 +1,9 @@
 # Restaurant-Service-Bot::
 
 ## Problem statement-
-![ps](https://user-images.githubusercontent.com/84644157/142444776-ff17995c-7fe4-41d4-a6e4-262605583223.png)
+<img src="https://user-images.githubusercontent.com/84644157/142454320-580abfa9-8e88-4e4d-92e9-87c7b2bab.png" width="500">
+<img src="https://user-images.githubusercontent.com/84644157/142454326-b277db86-3265-449e-98dd-7281327df72f.png" width="500">
+<img src="https://user-images.githubusercontent.com/84644157/142454335-36088c7c-538b-4d9a-a639-bd53f31a7d2a.png" width="500">
 
 ## Input-
 1.1st line consists of co-ordinates of the table from where the path begins
@@ -9,16 +11,16 @@
 3.from 3rd line all the corresponding lines represents the table arrangement and and specifies if bot can move or not(1- bot can't move,0-bot can move)
 
 
-![Input](https://user-images.githubusercontent.com/84644157/142444736-f89e4178-2154-4f76-9f96-88e0ad55eaac.png)
+<img src="https://user-images.githubusercontent.com/84644157/142454339-bdc59319-5fef-428d-ba46-4a145fb4bc78.png" width="200">
 
 
 ## Multilist represntaion-
 After reading the input file and crating a sparse matrix out of it (multi linked list)  
 
-![multi_list_representation](https://user-images.githubusercontent.com/84644157/142444764-270bb758-db13-48b6-9408-4101b02fdb7a.png)
-
+<img src="https://user-images.githubusercontent.com/84644157/142454342-5978bcb0-4861-4471-a318-9b509a77586d.png" width="500">
 
 ## Output-
 After processing the output prints the Path form start table to end if exists,and if path doesnt exist the output file contains -1
 
-![output](https://user-images.githubusercontent.com/84644157/142444768-731a02af-3e6e-4d8f-b83c-fe6c39c7498d.png)
+<img src="https://user-images.githubusercontent.com/84644157/142454344-1d1389e0-f258-4c8d-81c6-ff4d3c6b4da7.png)
+36f.png" width="500">
