@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/84644157/142454339-bdc59319-5fef-428d-ba46-4a145fb4bc78.png" width="200">
 
 
-## Multilist represntaion-
+## Multi-linked-list representation-
 After reading the input file and crating a sparse matrix out of it (multi linked list)  
 
 <img src="https://user-images.githubusercontent.com/84644157/142454342-5978bcb0-4861-4471-a318-9b509a77586d.png" width="500">
