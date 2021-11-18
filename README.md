@@ -7,7 +7,9 @@
 
 ## Input-
 1.1st line consists of co-ordinates of the table from where the path begins
+
 2.2nd line specifies the co-ordinates of the  the serving Table & Bot must find path to it from the beginning
+
 3.from 3rd line all the corresponding lines represents the table arrangement and and specifies if bot can move or not(1- bot can't move,0-bot can move)
 
 
