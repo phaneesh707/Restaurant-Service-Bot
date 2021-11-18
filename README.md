@@ -22,6 +22,6 @@ After reading the input file and crating a sparse matrix out of it (multi linked
 <img src="https://user-images.githubusercontent.com/84644157/142454342-5978bcb0-4861-4471-a318-9b509a77586d.png" width="500">
 
 ## Output-
-After processing the output prints the Path form start table to end if exists,and if path doesnt exist the output file contains -1
+After processing the output prints the Path form start table to end if exists in sorted order,and if path doesnt exist the output file contains -1
 
 <img src="https://user-images.githubusercontent.com/84644157/142455402-0c197399-56ec-491a-a0bb-96e18f5809ac.png" width="50">
