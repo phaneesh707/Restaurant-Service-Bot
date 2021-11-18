@@ -1,7 +1,7 @@
 # Restaurant-Service-Bot::
 
 ## Problem statement-
-<img src="https://user-images.githubusercontent.com/84644157/142454320-580abfa9-8e88-4e4d-92e9-87c7b2bab.png" width="500">
+<img src="https://user-images.githubusercontent.com/84644157/142455404-13543181-13b3-4b18-9541-d5175f2ded0c.png" width="500">
 <img src="https://user-images.githubusercontent.com/84644157/142454326-b277db86-3265-449e-98dd-7281327df72f.png" width="500">
 <img src="https://user-images.githubusercontent.com/84644157/142454335-36088c7c-538b-4d9a-a639-bd53f31a7d2a.png" width="500">
 
@@ -22,5 +22,4 @@ After reading the input file and crating a sparse matrix out of it (multi linked
 ## Output-
 After processing the output prints the Path form start table to end if exists,and if path doesnt exist the output file contains -1
 
-<img src="https://user-images.githubusercontent.com/84644157/142454344-1d1389e0-f258-4c8d-81c6-ff4d3c6b4da7.png)
-36f.png" width="500">
+<img src="https://user-images.githubusercontent.com/84644157/142455402-0c197399-56ec-491a-a0bb-96e18f5809ac.png" width="50">
