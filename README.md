@@ -17,11 +17,11 @@
 
 
 ## Multi-linked-list representation-
-After reading the input file and crating a sparse matrix out of it (multi linked list)  
+After reading the input file and creating a sparse matrix out of it (multi linked list).
 
 <img src="https://user-images.githubusercontent.com/84644157/142454342-5978bcb0-4861-4471-a318-9b509a77586d.png" width="500">
 
 ## Output-
-After processing , Path form start table to end table is writte into the output file (if exists) in sorted order,and if path doesnt exist the output file is written with -1
+After processing , Path from start table to end table is written into the output file (if exists) in sorted order,and if path doesnt exist the output file is written with -1.
 
 <img src="https://user-images.githubusercontent.com/84644157/142455402-0c197399-56ec-491a-a0bb-96e18f5809ac.png" width="50">
